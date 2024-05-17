@@ -8,10 +8,10 @@ KDTree Class:
 
 Main Function:
 
-Initializes the KDTree with 2 dimensions.
-Builds the tree with given points.
-Defines the range bounds.
-Searches for points within the specified range and prints the number of points found and their coordinates.
+- Initializes the KDTree with 2 dimensions.
+- Builds the tree with given points.
+- Defines the range bounds.
+- Searches for points within the specified range and prints the number of points found and their coordinates.
 
 
 This implementation ensures that the K-D Tree is balanced by using the median to split the points, leading to efficient range queries
